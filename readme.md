@@ -1,3 +1,4 @@
+## Hello I'm
 <div align="center">
 <img src="https://github.com/webcipher101/webcipher101/blob/main/thumb.png"/>
 </div>
@@ -8,5 +9,4 @@
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://webcipher101.github.io/myportfolio/)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/gaurav-dalal.20c90a95)
 
-## <img height="40" src="https://giphy.com/gifs/PhaseZwo-YQduDHR3pMlwunQptu"/> HACKER
 
