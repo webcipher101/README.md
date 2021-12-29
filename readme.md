@@ -8,5 +8,5 @@
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://webcipher101.github.io/myportfolio/)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/gaurav-dalal.20c90a95)
 
-[![](<iframe src="https://giphy.com/embed/YQduDHR3pMlwunQptu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhaseZwo-YQduDHR3pMlwunQptu">via GIPHY</a></p>)
+## <img height="40" src="https://giphy.com/gifs/PhaseZwo-YQduDHR3pMlwunQptu"/> HACKER
 
