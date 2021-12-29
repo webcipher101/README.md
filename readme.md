@@ -1,5 +1,5 @@
 <div align="center">
-<img max-width="800" max-height="200" src="https://github.com/webcipher101/webcipher101/blob/main/thum.png"/>
+<img max-width="800" max-height="100px" src="https://github.com/webcipher101/webcipher101/blob/main/thum.png"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
